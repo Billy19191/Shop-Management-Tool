@@ -1,9 +1,4 @@
-// Final Project
-// Members:
-// 65070503402 Korawit Sritotum
-// 65070503406 Gunn Wangwichit
-// 65070503439 Sikares Nuntipatsakul
-// 65070503464 Ratchanon Tarawan
+// Final Project (Group)
 
 #include <stdio.h>
 #include <time.h>
